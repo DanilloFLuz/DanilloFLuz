@@ -1,4 +1,4 @@
-Ola eu sou o Danillo Feliciano
+Olá, eu sou o Danillo Feliciano
 
 <div align="center">
   <a href="https://github.com/DanilloFLuz">
